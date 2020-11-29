@@ -23,6 +23,7 @@
 # include <string.h>
 # include <stdbool.h>
 # include "../lib/lib.h"
+# include <sys/wait.h>
 
 typedef	struct		s_data
 {
